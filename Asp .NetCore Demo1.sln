@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Asp .NetCore", "Asp .NetCore\Asp .NetCore.csproj", "{A093FCAA-BAC0-48B8-8858-1F8EED2717BA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspNetCoreMVCDemo", "AspNetCoreMVCDemo\AspNetCoreMVCDemo.csproj", "{CED9C770-DD17-49E0-96DE-F6433EC18863}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspNetWebAPI", "AspNetWebAPI\AspNetWebAPI.csproj", "{3F27FCF7-55B8-4067-93DF-D59B22B2621D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductManagement", "ProductManagement\ProductManagement.csproj", "{B14F333C-570F-4B2A-85DD-7880BE8C0EDB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookAPI", "BookAPI\BookAPI.csproj", "{244D48CA-89F2-4E3D-900D-C3B2B89EB21D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartPhonesAPI", "SmartPhonesAPI\SmartPhonesAPI.csproj", "{F7AB6DE2-C387-4B0A-93BF-A1846CB56C36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A093FCAA-BAC0-48B8-8858-1F8EED2717BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A093FCAA-BAC0-48B8-8858-1F8EED2717BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A093FCAA-BAC0-48B8-8858-1F8EED2717BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A093FCAA-BAC0-48B8-8858-1F8EED2717BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CED9C770-DD17-49E0-96DE-F6433EC18863}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CED9C770-DD17-49E0-96DE-F6433EC18863}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CED9C770-DD17-49E0-96DE-F6433EC18863}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CED9C770-DD17-49E0-96DE-F6433EC18863}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F27FCF7-55B8-4067-93DF-D59B22B2621D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F27FCF7-55B8-4067-93DF-D59B22B2621D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F27FCF7-55B8-4067-93DF-D59B22B2621D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F27FCF7-55B8-4067-93DF-D59B22B2621D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B14F333C-570F-4B2A-85DD-7880BE8C0EDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B14F333C-570F-4B2A-85DD-7880BE8C0EDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B14F333C-570F-4B2A-85DD-7880BE8C0EDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B14F333C-570F-4B2A-85DD-7880BE8C0EDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{244D48CA-89F2-4E3D-900D-C3B2B89EB21D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{244D48CA-89F2-4E3D-900D-C3B2B89EB21D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{244D48CA-89F2-4E3D-900D-C3B2B89EB21D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{244D48CA-89F2-4E3D-900D-C3B2B89EB21D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7AB6DE2-C387-4B0A-93BF-A1846CB56C36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7AB6DE2-C387-4B0A-93BF-A1846CB56C36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7AB6DE2-C387-4B0A-93BF-A1846CB56C36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7AB6DE2-C387-4B0A-93BF-A1846CB56C36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5760C8B-A166-440B-9A33-94000548F0E2}
+	EndGlobalSection
+EndGlobal
